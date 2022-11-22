@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const URL = '';
+const URL = 'https://merncrudbackend-gbux.onrender.com';
 //const URL = 'http://localhost:8000';
 
 
